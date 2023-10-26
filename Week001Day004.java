@@ -134,7 +134,7 @@ public class Week001Day004 {
 
 
 
-        //7 -Weeks and Days
+                //7 -Weeks and Days
 //        for (int i = 1; i <=4 ; i++) {
 //            System.out.println("Week "+i);
 //            for (int j = 1; j <=7 ; j++) {
@@ -143,9 +143,16 @@ public class Week001Day004 {
 // }
 
 
-
-        //8-
-
-
+                 //8- revers
+//    String text=input.next();
+//    String rev="";
+//        for (int i = text.length()-1; i >=0 ; i--) {
+//          rev+= String.valueOf(text.charAt(i));
+//        }
+//        if (text.equals(rev)){
+//            System.out.println("same word");
+//        }else{
+//            System.out.println("sorry not like word");
+//        }
     }
 }
